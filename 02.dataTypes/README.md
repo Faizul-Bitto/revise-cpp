@@ -4,7 +4,7 @@ This explains the different types of data you can store in C++ variables.
 
 ---
 
-## Your Code: [`a-dataTypes.cpp`](a-dataTypes.cpp)
+## Code: [`a-dataTypes.cpp`](a-dataTypes.cpp)
 
 ```cpp
 #include <bits/stdc++.h>
