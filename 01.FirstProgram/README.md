@@ -4,7 +4,7 @@ This explains your first C++ program that reads two numbers from the user and di
 
 ---
 
-## Your Code: [`helloWorld.cpp`](helloWorld.cpp)
+## Code: [`helloWorld.cpp`](helloWorld.cpp)
 
 ```cpp
 #include <bits/stdc++.h>
