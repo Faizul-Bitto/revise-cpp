@@ -4,8 +4,6 @@ This explains how to use loops with arrays to handle multiple pieces of data eff
 
 ---
 
-## Your Code: [`arrayAndLoopCombined.cpp`](arrayAndLoopCombined.cpp)
-
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
