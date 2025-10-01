@@ -4,7 +4,7 @@ This explains how to handle multiple choices more efficiently than many if-else 
 
 ---
 
-## Your Code: [`switchCase.cpp`](switchCase.cpp)
+## Code: [`switchCase.cpp`](switchCase.cpp)
 
 ```cpp
 #include <bits/stdc++.h>
