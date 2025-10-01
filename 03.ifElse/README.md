@@ -4,7 +4,7 @@ This explains how to make your program choose different actions based on conditi
 
 ---
 
-## Your Code: [`a-ifElse.cpp`](a-ifElse.cpp)
+## Code: [`a-ifElse.cpp`](a-ifElse.cpp)
 
 ```cpp
 #include <bits/stdc++.h>
