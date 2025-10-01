@@ -4,8 +4,6 @@ This explains how arrays behave differently when passed to functions compared to
 
 ---
 
-## Your Code: [`arrayAlwaysBeingPassedByReferenceInFunctions.cpp`](arrayAlwaysBeingPassedByReferenceInFunctions.cpp)
-
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
