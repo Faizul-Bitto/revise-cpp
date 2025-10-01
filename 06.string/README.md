@@ -4,7 +4,7 @@ This explains how to work with text (strings) and access individual characters.
 
 ---
 
-## Your Code: [`a-string.cpp`](a-string.cpp)
+## Code: [`a-string.cpp`](a-string.cpp)
 
 ```cpp
 #include <bits/stdc++.h>
