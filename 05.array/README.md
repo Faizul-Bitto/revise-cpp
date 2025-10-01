@@ -4,7 +4,7 @@ This explains how to store multiple values in one variable using arrays.
 
 ---
 
-## Your Code: [`a-array.cpp`](a-array.cpp)
+## Code: [`a-array.cpp`](a-array.cpp)
 
 ```cpp
 #include <bits/stdc++.h>
